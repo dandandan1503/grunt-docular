@@ -28,8 +28,8 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "docular": "~0.8.0",
-    "docular-ng-plugin": "*",
+    "docular": "dandandan1503/docular#merge-file-type-fix-highlight-application",
+    "docular-ng-plugin": "dandandan1503/docular-ng-plugin#render-formatted-examples-description-params",
     "docular-markdown-plugin": "*",
     "colors": "*",
     "express": "*",
